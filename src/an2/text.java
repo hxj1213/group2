@@ -5,5 +5,6 @@ public class text {
         System.out.println("an is pig");
         System.out.println("你好骚啊");
         System.out.println("我还行，没你一半优秀");
+        System.out.println("haihaohaihao，没你一半优秀");
     }
 }
